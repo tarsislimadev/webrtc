@@ -6,6 +6,12 @@
 
 [Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/2zWpWBgmPj)
 
+## links
+
+[RTCPeerConnection on developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection)
+
+[overview on webrtc](https://webrtc.org/getting-started/overview)
+
 ## license
 
 [MIT](./LICENSE)
